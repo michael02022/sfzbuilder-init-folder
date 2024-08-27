@@ -1,2 +1,2 @@
 # sfzbuilder-init-folder
-SFZBuilder root folder template
+This is the folder which has the structure needed to run SFZBuilder and install SFZ Packs/Presets
