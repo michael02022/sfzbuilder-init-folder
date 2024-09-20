@@ -1,0 +1,1 @@
+This is not an official product, Kawai Japan and Kawai America do not, in any way, offer any support regarding the use of these samples.

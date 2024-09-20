@@ -1,0 +1,5 @@
+<region> sample=189_Synth 4_36.wav pitch_keycenter=35 hikey=47
+<region> sample=189_Synth 4_48.wav pitch_keycenter=35 lokey=48 hikey=59
+<region> sample=189_Synth 4_60.wav pitch_keycenter=35 lokey=60 hikey=71
+<region> sample=189_Synth 4_72.wav pitch_keycenter=35 lokey=72 hikey=83
+<region> sample=189_Synth 4_84.wav pitch_keycenter=35 lokey=84

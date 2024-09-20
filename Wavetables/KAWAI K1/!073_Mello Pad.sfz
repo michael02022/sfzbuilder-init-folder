@@ -1,0 +1,5 @@
+<region> sample=073_Mello Pad_36.wav pitch_keycenter=35 hikey=47
+<region> sample=073_Mello Pad_48.wav pitch_keycenter=35 lokey=48 hikey=59
+<region> sample=073_Mello Pad_60.wav pitch_keycenter=35 lokey=60 hikey=71
+<region> sample=073_Mello Pad_72.wav pitch_keycenter=35 lokey=72 hikey=83
+<region> sample=073_Mello Pad_84.wav pitch_keycenter=35 lokey=84
