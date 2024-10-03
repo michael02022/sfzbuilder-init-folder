@@ -1,5 +1,5 @@
-<region> sample=026_Saw 13_36.wav pitch_keycenter=35 hikey=47
-<region> sample=026_Saw 13_48.wav pitch_keycenter=35 lokey=48 hikey=59
+//<region> sample=026_Saw 13_36.wav pitch_keycenter=35 hikey=47
+<region> sample=026_Saw 13_48.wav pitch_keycenter=35 hikey=59
 <region> sample=026_Saw 13_60.wav pitch_keycenter=35 lokey=60 hikey=71
 <region> sample=026_Saw 13_72.wav pitch_keycenter=35 lokey=72 hikey=83
 <region> sample=026_Saw 13_84.wav pitch_keycenter=35 lokey=84
